@@ -22,7 +22,7 @@ My work spans the full delivery cycle: requirements, process and data modeling, 
 
 Since 2025, I have also worked professionally with Applied AI, including LLM-based capabilities, prompt engineering, embeddings, semantic retrieval, MCP, recommendation systems, AI Security and Security by Design.
 
-I use this GitHub as an engineering portfolio. Current implementations, historical projects and educational repositories are kept distinct so the code, documentation and provenance match what each repository actually represents.
+I use this GitHub as an engineering portfolio. Current implementations, historical systems and repositories that incorporate external source material are kept distinct so that technical ownership, licensing and provenance remain explicit.
 
 ## Professional highlights
 
@@ -39,6 +39,7 @@ I use this GitHub as an engineering portfolio. Current implementations, historic
 - Applied AI Engineering
 - Software Architecture
 - Backend and API Engineering
+- End-to-end technical ownership
 - PHP, Laravel, CodeIgniter and Symfony
 - JavaScript, TypeScript and Node.js
 - PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, SQLite and MongoDB
@@ -94,7 +95,7 @@ Areas I work with include:
 - failure handling and fallback strategies
 - AI Security and Security by Design
 
-Some public repositories originated from structured coursework. Those repositories preserve their original attribution and are kept separate from my original engineering work.
+Some public repositories incorporate externally authored or licensed source material. Those repositories preserve attribution and licensing boundaries and are kept separate from my original engineering work.
 
 ## Professional experience
 
@@ -141,6 +142,17 @@ Development, maintenance and evolution of web applications and internal systems.
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
+
+## Engineering scope
+
+| Area | Professional scope |
+|---|---|
+| Backend & APIs | PHP, Laravel, CodeIgniter, Symfony, Node.js, REST APIs, integrations and service boundaries |
+| Data | PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, SQLite, MongoDB, SQL/NoSQL modeling and data integrity |
+| Cloud & Infrastructure | AWS, Docker, Git, Linux, Windows, macOS and reproducible development environments |
+| Applied AI | LLM integrations, prompt engineering, embeddings, semantic retrieval, MCP, recommendation systems and AI-enabled backends |
+| Security | Security by Design, AI Security, privacy/LGPD practices, authentication and integrity controls |
+| Delivery & Governance | Requirements, process modeling, architecture, testing, deployment, maintenance, support, BPMN, ITIL and workflow analysis |
 
 ## Engineering principles
 
