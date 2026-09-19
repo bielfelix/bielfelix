@@ -214,6 +214,12 @@ Exemplos:
 - Bacharelado em Sistemas de Informação, Faculdade UNA Contagem, 2024
 - Técnico de Nível Médio em Informática, FUNEC, 2018
 
+## Evidências profissionais
+
+- [Professional Engineering Evidence](docs/professional-engineering-evidence.md)
+- [Selected Client Delivery Contexts](docs/client-delivery-contexts.md)
+- [Repository Metadata Baseline](docs/repository-metadata.md)
+
 ## Contato
 
 Para oportunidades profissionais, colaboração técnica ou projetos:
