@@ -9,6 +9,7 @@ Contagem, Minas Gerais, Brazil
 Software engineer with end-to-end experience building web applications, APIs, integrations, data-driven systems and AI-enabled software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Felix-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biel-felix/)
+[![Felix Studio](https://img.shields.io/badge/Website-felixstudio.com.br-111827?logo=googlechrome&logoColor=white)](https://felixstudio.com.br/)
 [![Email](https://img.shields.io/badge/Email-bielfelix%40icloud.com-333333?logo=icloud&logoColor=white)](mailto:bielfelix@icloud.com)
 [![Português](https://img.shields.io/badge/Português-README.pt--BR.md-1f6feb)](README.pt-BR.md)
 
@@ -31,7 +32,7 @@ I use this GitHub as an engineering portfolio. Current implementations, historic
 - Professional Applied AI Engineering since 2025, working with LLMs, prompt engineering, embeddings, semantic retrieval, MCP, recommendation systems, AI Security and Security by Design.
 - Experience across product, corporate and contractor environments, including Safehouse App, 123Milhas, Why Digital, AcessoWeb Design and SOEBRAS.
 - Backend and integration work spanning REST APIs, SQL/NoSQL databases, AWS services, authentication, payments and data-integrity controls.
-- B.Sc. in Information Systems, with postgraduate studies in Software Engineering in Applied AI.
+- B.Sc. in Information Systems, with a postgraduate specialization in Software Engineering in Applied AI in progress.
 
 ## Professional focus
 
@@ -47,6 +48,14 @@ I use this GitHub as an engineering portfolio. Current implementations, historic
 - LLM integrations, MCP, embeddings and semantic retrieval
 - Security by Design, data integrity and privacy
 - Testing, CI and production support
+
+## Commercial engineering
+
+Through [Felix Studio](https://felixstudio.com.br/), I work on custom systems, web platforms, e-commerce, mobile-oriented solutions, automation, integrations and modernization of existing systems.
+
+The public Felix Studio portfolio showcases delivery across healthcare, corporate platforms, logistics, digital products and blockchain-enabled interfaces, including work associated with Medical Laudos, Laudos Online, Now Group, Transvolga, Ituti and Cripto.Solutions.
+
+My role spans technical discovery, architecture, implementation, integration, deployment, maintenance and client-facing delivery.
 
 ## Selected engineering work
 
@@ -169,7 +178,7 @@ Application validation is important, but transactions, constraints and concurren
 A prototype should not pretend to be a production platform, and historical code should not be rewritten to look newer than it is.
 
 **Keep provenance clear.**  
-Original work, legacy systems, course material and third-party code should be identifiable as different things.
+Original work, legacy systems, externally sourced material and third-party code should be identifiable as different things.
 
 ## Engineering history
 
@@ -192,5 +201,6 @@ Examples:
 
 For professional opportunities, technical collaboration or project discussions:
 
+- [Felix Studio](https://felixstudio.com.br/)
 - [LinkedIn](https://www.linkedin.com/in/biel-felix/)
 - [bielfelix@icloud.com](mailto:bielfelix@icloud.com)
