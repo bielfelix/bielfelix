@@ -34,6 +34,23 @@ Uso este GitHub como portfólio de engenharia. Implementações atuais, sistemas
 - Trabalho com backends e integrações envolvendo APIs REST, bancos SQL/NoSQL, serviços AWS, autenticação, pagamentos e controles de integridade de dados.
 - Bacharel em Sistemas de Informação, com especialização de pós-graduação em Engenharia de Software em IA Aplicada em andamento.
 
+## Engenharia aplicada a clientes e empresas
+
+Por meio da [Felix Studio](https://felixstudio.com.br/), entrego tecnologia sob medida para empresas e empreendedores em todo o Brasil desde 2014.
+
+A empresa publica mais de 80 clientes atendidos nacionalmente e atua com:
+
+- sites, landing pages e e-commerce sob medida
+- sistemas web e plataformas de negócio
+- aplicativos mobile e automações
+- integrações e modernização de sistemas
+- SEO e GEO
+- soluções de IA aplicada a processos empresariais
+
+Entre as empresas e marcas apresentadas no portfólio da Felix Studio estão Medical Laudos, Laudos Online, Now Group, X Bell Tec, Cripto Solutions, Transvolga e iTuti.
+
+Esse trabalho comercial complementa os projetos de engenharia do GitHub ao demonstrar entregas em contextos reais de negócio: levantamento de requisitos, arquitetura, implementação, integrações, implantação, manutenção e suporte técnico contínuo.
+
 ## Foco profissional
 
 - Engenharia Full Stack Sênior
@@ -201,6 +218,7 @@ Exemplos:
 
 Para oportunidades profissionais, colaboração técnica ou projetos:
 
+- [Felix Studio](https://felixstudio.com.br/)
 - [Felix Studio](https://felixstudio.com.br/)
 - [LinkedIn](https://www.linkedin.com/in/biel-felix/)
 - [bielfelix@icloud.com](mailto:bielfelix@icloud.com)
