@@ -20,6 +20,14 @@ My work covers the full software delivery cycle: requirements discovery, process
 
 Since 2025, I have also worked professionally with Applied AI, including LLM-based capabilities, prompt engineering, embeddings, semantic retrieval, MCP, recommendation systems, AI Security and Security by Design.
 
+## Professional highlights
+
+- Building and delivering software professionally since 2014 through Felix Studio.
+- End-to-end ownership across requirements, process and data modeling, architecture, development, testing, deployment, maintenance and support.
+- Professional Applied AI Engineering since 2025, including LLM integrations, prompt engineering, embeddings, semantic retrieval, MCP, recommendation systems, AI Security and Security by Design.
+- Experience across product, corporate and contractor environments, including Safehouse App, 123Milhas, Why Digital, AcessoWeb Design and SOEBRAS.
+- Backend and integration work spanning REST APIs, SQL/NoSQL databases, AWS services, authentication, payments and data-integrity controls.
+
 ## Technology stack
 
 <p align="center">
@@ -37,6 +45,17 @@ AWS · Docker · Git · Linux · Windows · macOS · CI/CD
 
 **Applied AI**  
 LLM integrations · Prompt Engineering · Embeddings · Semantic Retrieval · MCP · Recommendation Systems · AI Security
+
+## Engineering scope
+
+| Area | Professional scope |
+|---|---|
+| Backend & APIs | PHP, Laravel, CodeIgniter, Symfony, Node.js, REST APIs and integrations |
+| Data | PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, SQLite, MongoDB and data modeling |
+| Cloud & Infrastructure | AWS, Docker, Git, Linux, Windows, macOS and CI/CD |
+| Applied AI | LLM integrations, prompt engineering, embeddings, semantic retrieval, MCP and recommendation systems |
+| Security | Security by Design, AI Security, privacy/LGPD practices, authentication and data integrity |
+| Delivery | Requirements, architecture, testing, deployment, maintenance, support and technical evolution |
 
 ## Selected engineering work
 
