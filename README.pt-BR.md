@@ -6,7 +6,6 @@
 
 Projetando e entregando software profissionalmente desde 2014, com responsabilidade end-to-end dos requisitos e arquitetura à implantação, confiabilidade, manutenção e evolução técnica.
 
-[![Site](https://img.shields.io/badge/Site-felixstudio.com.br-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://felixstudio.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Felix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biel-felix/)
 [![E-mail](https://img.shields.io/badge/E--mail-bielfelix%40icloud.com-4B5563?style=for-the-badge&logo=icloud&logoColor=white)](mailto:bielfelix@icloud.com)
 [![English](https://img.shields.io/badge/English-README.md-1F6FEB?style=for-the-badge)](README.md)
