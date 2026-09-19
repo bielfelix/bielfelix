@@ -140,15 +140,10 @@ Selected client contexts publicly presented by Felix Studio include Medical Laud
 
 ## Education
 
-- Postgraduate specialization in Software Engineering in Applied AI, Centro Universitário Anhanguera / UNIPDS
+- Ongoing postgraduate specialization in Software Engineering in Applied AI, Centro Universitário Anhanguera / UNIPDS
 - B.Sc. in Information Systems, Faculdade UNA Contagem, 2024
 - Technical Degree in Information Technology, FUNEC, 2018
 
-## Engineering evidence
-
-- [Professional Engineering Evidence](docs/professional-engineering-evidence.md)
-- [Selected Client Delivery Contexts](docs/client-delivery-contexts.md)
-- [Repository Metadata Baseline](docs/repository-metadata.md)
 
 ## Contact
 
