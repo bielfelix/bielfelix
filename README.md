@@ -4,8 +4,6 @@
 
 ### Senior Full Stack Developer · Applied AI Engineer · Software Architecture
 
-Contagem, Minas Gerais, Brazil
-
 Building software professionally since 2014, from requirements and architecture to deployment, maintenance and technical evolution.
 
 [Website](https://felixstudio.com.br/) · [LinkedIn](https://www.linkedin.com/in/biel-felix/) · [Email](mailto:bielfelix@icloud.com) · [Português](README.pt-BR.md)
@@ -16,7 +14,7 @@ Building software professionally since 2014, from requirements and architecture 
 
 ## Professional profile
 
-Senior Full Stack Developer and Applied AI Engineer with experience across backend engineering, APIs, integrations, databases, cloud, software architecture and AI-enabled systems.
+Senior Full Stack Developer and Applied AI Engineer focused on backend engineering, software architecture, APIs, integrations, cloud and AI-enabled systems.
 
 My work covers the full software delivery cycle: requirements discovery, process and data modeling, architecture, development, testing, deployment, maintenance, support and continuous technical evolution.
 
