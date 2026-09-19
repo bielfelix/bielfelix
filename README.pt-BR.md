@@ -4,6 +4,8 @@
 
 ### Desenvolvedor Full Stack Sênior · Engenheiro de IA Aplicada · Arquitetura de Software
 
+Contagem, Minas Gerais, Brasil
+
 Engenheiro de software com experiência end-to-end no desenvolvimento de aplicações web, APIs, integrações, sistemas orientados a dados e soluções com IA aplicada.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Felix-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biel-felix/)
@@ -21,6 +23,15 @@ Minha atuação cobre o ciclo completo de entrega: levantamento de requisitos, m
 Desde 2025, atuo profissionalmente também com IA aplicada, incluindo funcionalidades baseadas em LLMs, prompt engineering, embeddings, recuperação semântica, MCP, sistemas de recomendação, AI Security e Security by Design.
 
 Uso este GitHub como portfólio de engenharia. Implementações atuais, projetos históricos e repositórios educacionais são mantidos separados para que o código, a documentação e a origem de cada projeto correspondam ao que ele realmente representa.
+
+## Destaques profissionais
+
+- Desenvolvimento e entrega profissional de software desde 2014 pela Felix Studio.
+- Atuação end-to-end em requisitos, modelagem de processos e dados, arquitetura, desenvolvimento, testes, implantação, manutenção, suporte e treinamento.
+- Atuação profissional como Engenheiro de IA Aplicada desde 2025, com LLMs, prompt engineering, embeddings, recuperação semântica, MCP, sistemas de recomendação, AI Security e Security by Design.
+- Experiência em ambientes de produto, corporativos e por contrato, incluindo Safehouse App, 123Milhas, Why Digital, AcessoWeb Design e SOEBRAS.
+- Trabalho com backends e integrações envolvendo APIs REST, bancos SQL/NoSQL, serviços AWS, autenticação, pagamentos e controles de integridade de dados.
+- Bacharel em Sistemas de Informação, com pós-graduação em Engenharia de Software em IA Aplicada em andamento.
 
 ## Foco profissional
 
