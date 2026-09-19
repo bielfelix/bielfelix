@@ -13,15 +13,30 @@ $metadata = Get-Content $metadataPath -Raw | ConvertFrom-Json
 
 foreach ($repo in $metadata.repositories) {
     $fullName = "$Owner/$($repo.name)"
-    Write-Host "Updating $fullName"
+    Write-Host ""
+    Write-Host "Synchronizing $fullName"
+
+    $currentTopics = @(
+        gh repo view $fullName --json repositoryTopics --jq ".repositoryTopics[].name"
+    )
+
+    if ($LASTEXITCODE -ne 0) {
+        throw "Failed to read metadata for $fullName"
+    }
 
     $args = @(
         "repo", "edit", $fullName,
         "--description", $repo.description
     )
 
-    if ($repo.topics.Count -gt 0) {
-        foreach ($topic in $repo.topics) {
+    foreach ($topic in $currentTopics) {
+        if ($topic -and ($repo.topics -notcontains $topic)) {
+            $args += @("--remove-topic", $topic)
+        }
+    }
+
+    foreach ($topic in $repo.topics) {
+        if ($currentTopics -notcontains $topic) {
             $args += @("--add-topic", $topic)
         }
     }
@@ -33,4 +48,5 @@ foreach ($repo in $metadata.repositories) {
     }
 }
 
-Write-Host "Repository metadata update completed."
+Write-Host ""
+Write-Host "Repository descriptions and topics synchronized successfully."
