@@ -20,6 +20,14 @@ Minha atuação cobre todo o ciclo de entrega de software: levantamento de requi
 
 Desde 2025, também atuo profissionalmente com IA aplicada, incluindo funcionalidades baseadas em LLMs, prompt engineering, embeddings, recuperação semântica, MCP, sistemas de recomendação, AI Security e Security by Design.
 
+## Destaques profissionais
+
+- Desenvolvimento e entrega profissional de software desde 2014 pela Felix Studio.
+- Responsabilidade end-to-end em requisitos, modelagem de processos e dados, arquitetura, desenvolvimento, testes, implantação, manutenção e suporte.
+- Atuação profissional como Engenheiro de IA Aplicada desde 2025, incluindo integrações com LLMs, prompt engineering, embeddings, recuperação semântica, MCP, sistemas de recomendação, AI Security e Security by Design.
+- Experiência em ambientes de produto, corporativos e por contrato, incluindo Safehouse App, 123Milhas, Why Digital, AcessoWeb Design e SOEBRAS.
+- Trabalho com backends e integrações envolvendo APIs REST, bancos SQL/NoSQL, serviços AWS, autenticação, pagamentos e controles de integridade de dados.
+
 ## Stack tecnológica
 
 <p align="center">
@@ -37,6 +45,17 @@ AWS · Docker · Git · Linux · Windows · macOS · CI/CD
 
 **IA Aplicada**  
 Integrações com LLMs · Prompt Engineering · Embeddings · Recuperação Semântica · MCP · Sistemas de Recomendação · AI Security
+
+## Escopo de engenharia
+
+| Área | Escopo profissional |
+|---|---|
+| Backend e APIs | PHP, Laravel, CodeIgniter, Symfony, Node.js, APIs REST e integrações |
+| Dados | PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, SQLite, MongoDB e modelagem de dados |
+| Cloud e infraestrutura | AWS, Docker, Git, Linux, Windows, macOS e CI/CD |
+| IA Aplicada | Integrações com LLMs, prompt engineering, embeddings, recuperação semântica, MCP e sistemas de recomendação |
+| Segurança | Security by Design, AI Security, privacidade/LGPD, autenticação e integridade de dados |
+| Entrega | Requisitos, arquitetura, testes, implantação, manutenção, suporte e evolução técnica |
 
 ## Projetos de engenharia selecionados
 
