@@ -9,6 +9,7 @@ Contagem, Minas Gerais, Brasil
 Engenheiro de software com experiência end-to-end no desenvolvimento de aplicações web, APIs, integrações, sistemas orientados a dados e soluções com IA aplicada.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Felix-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biel-felix/)
+[![Felix Studio](https://img.shields.io/badge/Website-felixstudio.com.br-111827?logo=googlechrome&logoColor=white)](https://felixstudio.com.br/)
 [![E-mail](https://img.shields.io/badge/E--mail-bielfelix%40icloud.com-333333?logo=icloud&logoColor=white)](mailto:bielfelix@icloud.com)
 [![English](https://img.shields.io/badge/English-README.md-1f6feb)](README.md)
 
@@ -31,7 +32,7 @@ Uso este GitHub como portfólio de engenharia. Implementações atuais, sistemas
 - Atuação profissional como Engenheiro de IA Aplicada desde 2025, com LLMs, prompt engineering, embeddings, recuperação semântica, MCP, sistemas de recomendação, AI Security e Security by Design.
 - Experiência em ambientes de produto, corporativos e por contrato, incluindo Safehouse App, 123Milhas, Why Digital, AcessoWeb Design e SOEBRAS.
 - Trabalho com backends e integrações envolvendo APIs REST, bancos SQL/NoSQL, serviços AWS, autenticação, pagamentos e controles de integridade de dados.
-- Bacharel em Sistemas de Informação, com pós-graduação em Engenharia de Software em IA Aplicada em andamento.
+- Bacharel em Sistemas de Informação, com especialização de pós-graduação em Engenharia de Software em IA Aplicada em andamento.
 
 ## Foco profissional
 
@@ -47,6 +48,14 @@ Uso este GitHub como portfólio de engenharia. Implementações atuais, sistemas
 - LLMs, MCP, embeddings e recuperação semântica
 - Security by Design, integridade de dados e privacidade
 - Testes, CI e suporte a produção
+
+## Engenharia comercial
+
+Por meio da [Felix Studio](https://felixstudio.com.br/), atuo no desenvolvimento de sistemas sob medida, plataformas web, e-commerce, soluções mobile, automação, integrações e modernização de sistemas existentes.
+
+O portfólio público da Felix Studio apresenta entregas em saúde, plataformas corporativas, logística, produtos digitais e interfaces integradas a blockchain, incluindo trabalhos associados a Medical Laudos, Laudos Online, Now Group, Transvolga, Ituti e Cripto.Solutions.
+
+Minha atuação cobre descoberta técnica, arquitetura, implementação, integrações, implantação, manutenção e relacionamento técnico com clientes.
 
 ## Projetos selecionados
 
@@ -169,7 +178,7 @@ Validação na aplicação é importante, mas transações, constraints e contro
 Um protótipo não precisa fingir que é uma plataforma de produção, e código histórico não deve ser reescrito para parecer mais novo do que realmente é.
 
 **A origem do código precisa ser clara.**  
-Trabalho autoral, sistemas legados, material de curso e código de terceiros devem ser identificáveis como coisas diferentes.
+Trabalho autoral, sistemas legados, material de origem externa e código de terceiros devem ser identificáveis como coisas diferentes.
 
 ## Histórico de engenharia
 
@@ -192,5 +201,6 @@ Exemplos:
 
 Para oportunidades profissionais, colaboração técnica ou projetos:
 
+- [Felix Studio](https://felixstudio.com.br/)
 - [LinkedIn](https://www.linkedin.com/in/biel-felix/)
 - [bielfelix@icloud.com](mailto:bielfelix@icloud.com)
