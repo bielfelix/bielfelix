@@ -4,7 +4,7 @@
 
 ### Desenvolvedor Full Stack Sênior · Engenheiro de IA Aplicada · Arquitetura de Software
 
-Desenvolvendo software profissionalmente desde 2014, dos requisitos e arquitetura à implantação, manutenção e evolução técnica.
+Projetando e entregando software profissionalmente desde 2014, com responsabilidade end-to-end dos requisitos e arquitetura à implantação, confiabilidade, manutenção e evolução técnica.
 
 [Site](https://felixstudio.com.br/) · [LinkedIn](https://www.linkedin.com/in/biel-felix/) · [E-mail](mailto:bielfelix@icloud.com) · [English](README.md)
 
@@ -27,6 +27,21 @@ Desde 2025, também atuo profissionalmente com IA aplicada, incluindo funcionali
 - Atuação profissional como Engenheiro de IA Aplicada desde 2025, incluindo integrações com LLMs, prompt engineering, embeddings, recuperação semântica, MCP, sistemas de recomendação, AI Security e Security by Design.
 - Experiência em ambientes de produto, corporativos e por contrato, incluindo Safehouse App, 123Milhas, Why Digital, AcessoWeb Design e SOEBRAS.
 - Trabalho com backends e integrações envolvendo APIs REST, bancos SQL/NoSQL, serviços AWS, autenticação, pagamentos e controles de integridade de dados.
+
+## Arquitetura e responsabilidade técnica
+
+Minha atuação não se limita à implementação. Trabalho ao longo do ciclo de engenharia e tomo decisões técnicas sobre:
+
+- tradução de requisitos de negócio em fronteiras de sistema e planos de entrega;
+- arquitetura de APIs e integrações;
+- modelagem de dados relacionais e NoSQL;
+- fronteiras transacionais, integridade de dados e concorrência;
+- integração com cloud e serviços de terceiros;
+- controles de segurança, privacidade e autenticação;
+- estratégia de testes, CI e preparação para implantação;
+- manutenibilidade, suporte operacional e evolução técnica.
+
+Prefiro arquiteturas com trade-offs, modos de falha e responsabilidades operacionais explícitos, evitando complexidade sem necessidade demonstrada.
 
 ## Stack tecnológica
 
@@ -61,9 +76,11 @@ Integrações com LLMs · Prompt Engineering · Embeddings · Recuperação Sem�
 
 ### [Student Management API](https://github.com/bielfelix/sistema_alunos_laravel)
 
-Projeto backend atual em Laravel 13 e PostgreSQL 17 com foco em qualidade de engenharia e arquitetura inspecionável.
+Flagship backend atual em Laravel 13 e PostgreSQL 17 com foco em arquitetura, integridade de dados e disciplina operacional.
 
-**Destaques:** API REST versionada, ULIDs, constraints de banco, regras transacionais de matrícula, row locking para segurança de concorrência, services, testes de integração, OpenAPI, Docker, GitHub Actions, Dependabot, ADRs e threat modeling.
+**Decisões de engenharia:** API REST versionada, ULIDs, constraints de banco, regras transacionais de matrícula, row locking para segurança de concorrência, services, testes de integração, OpenAPI, Docker, GitHub Actions, Dependabot, ADRs, política de segurança e threat modeling.
+
+**O que demonstra:** domínio consciente de concorrência, integridade aplicada próxima aos dados, decisões arquiteturais explícitas e visão de produção sem infraestrutura desnecessária.
 
 ### [API REST em PHP sem framework](https://github.com/bielfelix/api-rest-php-sem-framework)
 
@@ -98,6 +115,15 @@ Entre os contextos de clientes apresentados publicamente pela Felix Studio estã
 
 [Ver contextos selecionados de entregas a clientes](docs/client-delivery-contexts.md)
 
+## Princípios de atuação em engenharia
+
+- **Contexto de negócio primeiro:** arquitetura deve resolver um problema real de entrega ou operação.
+- **Integridade acima da conveniência:** invariantes importantes pertencem a transações, constraints e regras explícitas de domínio.
+- **Confiabilidade é projetada:** falhas, retries, timeouts e observabilidade fazem parte do sistema, não são detalhes posteriores.
+- **Segurança é arquitetural:** credenciais, privacidade, autenticação e fronteiras de confiança são decisões de design.
+- **Evidência acima de alegações:** testes, CI, ADRs, threat models e ambientes reproduzíveis valem mais do que listas de tecnologias.
+- **Complexidade precisa se justificar:** padrões distribuídos ou assíncronos só entram quando o problema realmente exige.
+
 ## Experiência profissional
 
 | Organização | Função | Período |
@@ -112,7 +138,7 @@ Entre os contextos de clientes apresentados publicamente pela Felix Studio estã
 
 ## Formação
 
-- Pós-Graduação em Engenharia de Software em IA Aplicada, Centro Universitário Anhanguera / UNIPDS, cursando
+- Especialização em Engenharia de Software em IA Aplicada, Centro Universitário Anhanguera / UNIPDS
 - Bacharelado em Sistemas de Informação, Faculdade UNA Contagem, 2024
 - Técnico de Nível Médio em Informática, FUNEC, 2018
 
