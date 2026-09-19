@@ -34,6 +34,23 @@ I use this GitHub as an engineering portfolio. Current implementations, historic
 - Backend and integration work spanning REST APIs, SQL/NoSQL databases, AWS services, authentication, payments and data-integrity controls.
 - B.Sc. in Information Systems, with a postgraduate specialization in Software Engineering in Applied AI in progress.
 
+## Client and business engineering
+
+Through [Felix Studio](https://felixstudio.com.br/), I have delivered custom technology for companies and entrepreneurs across Brazil since 2014.
+
+The company publicly reports more than 80 clients nationwide and offers services across:
+
+- custom websites, landing pages and e-commerce
+- web systems and business platforms
+- mobile applications and automation
+- integrations and system modernization
+- SEO and GEO
+- Applied AI solutions for business processes
+
+Examples of companies and brands presented in the Felix Studio portfolio include Medical Laudos, Laudos Online, Now Group, X Bell Tec, Cripto Solutions, Transvolga and iTuti.
+
+This commercial work complements the engineering projects on GitHub by demonstrating delivery in real business contexts: requirements discovery, architecture, implementation, integrations, deployment, maintenance and ongoing technical support.
+
 ## Professional focus
 
 - Senior Full Stack Engineering
@@ -201,6 +218,7 @@ Examples:
 
 For professional opportunities, technical collaboration or project discussions:
 
+- [Felix Studio](https://felixstudio.com.br/)
 - [Felix Studio](https://felixstudio.com.br/)
 - [LinkedIn](https://www.linkedin.com/in/biel-felix/)
 - [bielfelix@icloud.com](mailto:bielfelix@icloud.com)
