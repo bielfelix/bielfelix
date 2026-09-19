@@ -22,7 +22,7 @@ Minha atuação cobre o ciclo completo de entrega: levantamento de requisitos, m
 
 Desde 2025, atuo profissionalmente também com IA aplicada, incluindo funcionalidades baseadas em LLMs, prompt engineering, embeddings, recuperação semântica, MCP, sistemas de recomendação, AI Security e Security by Design.
 
-Uso este GitHub como portfólio de engenharia. Implementações atuais, projetos históricos e repositórios educacionais são mantidos separados para que o código, a documentação e a origem de cada projeto correspondam ao que ele realmente representa.
+Uso este GitHub como portfólio de engenharia. Implementações atuais, sistemas históricos e repositórios que incorporam material externo são mantidos separados para que autoria técnica, licenciamento e proveniência permaneçam explícitos.
 
 ## Destaques profissionais
 
@@ -39,6 +39,7 @@ Uso este GitHub como portfólio de engenharia. Implementações atuais, projetos
 - Engenharia de IA Aplicada
 - Arquitetura de Software
 - Backend e APIs
+- Responsabilidade técnica end-to-end
 - PHP, Laravel, CodeIgniter e Symfony
 - JavaScript, TypeScript e Node.js
 - PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, SQLite e MongoDB
@@ -94,7 +95,7 @@ Minha atuação em IA aplicada envolve arquitetura e desenvolvimento de funciona
 - tratamento de falhas e estratégias de fallback
 - AI Security e Security by Design
 
-Alguns repositórios públicos tiveram origem em atividades de formação. Esses projetos mantêm atribuição explícita e ficam separados do meu trabalho autoral.
+Alguns repositórios públicos incorporam material de origem externa. Esses projetos preservam atribuição e limites de licenciamento e ficam separados do meu trabalho autoral.
 
 ## Experiência profissional
 
@@ -141,6 +142,17 @@ Desenvolvimento, manutenção e evolução de aplicações web e sistemas intern
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
+
+## Escopo de engenharia
+
+| Área | Escopo profissional |
+|---|---|
+| Backend e APIs | PHP, Laravel, CodeIgniter, Symfony, Node.js, APIs REST, integrações e separação de responsabilidades |
+| Dados | PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, SQLite, MongoDB, modelagem SQL/NoSQL e integridade de dados |
+| Cloud e infraestrutura | AWS, Docker, Git, Linux, Windows, macOS e ambientes de desenvolvimento reproduzíveis |
+| IA Aplicada | Integrações com LLMs, prompt engineering, embeddings, recuperação semântica, MCP, sistemas de recomendação e backends AI-enabled |
+| Segurança | Security by Design, AI Security, privacidade/LGPD, autenticação e controles de integridade |
+| Entrega e governança | Requisitos, modelagem de processos, arquitetura, testes, implantação, manutenção, suporte, BPMN, ITIL e análise de fluxos |
 
 ## Princípios de engenharia
 
