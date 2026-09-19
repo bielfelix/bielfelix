@@ -4,7 +4,7 @@
 
 ### Senior Full Stack Developer · Applied AI Engineer · Software Architecture
 
-Building software professionally since 2014, from requirements and architecture to deployment, maintenance and technical evolution.
+Designing and delivering software professionally since 2014, with end-to-end ownership from requirements and architecture through deployment, reliability, maintenance and technical evolution.
 
 [Website](https://felixstudio.com.br/) · [LinkedIn](https://www.linkedin.com/in/biel-felix/) · [Email](mailto:bielfelix@icloud.com) · [Português](README.pt-BR.md)
 
@@ -27,6 +27,21 @@ Since 2025, I have also worked professionally with Applied AI, including LLM-bas
 - Professional Applied AI Engineering since 2025, including LLM integrations, prompt engineering, embeddings, semantic retrieval, MCP, recommendation systems, AI Security and Security by Design.
 - Experience across product, corporate and contractor environments, including Safehouse App, 123Milhas, Why Digital, AcessoWeb Design and SOEBRAS.
 - Backend and integration work spanning REST APIs, SQL/NoSQL databases, AWS services, authentication, payments and data-integrity controls.
+
+## Architecture & technical ownership
+
+My work is not limited to implementation. I operate across the engineering lifecycle and make technical decisions around:
+
+- translating business requirements into system boundaries and delivery plans;
+- API and integration architecture;
+- relational and NoSQL data modeling;
+- transaction boundaries, data integrity and concurrency;
+- cloud and third-party service integration;
+- security, privacy and authentication controls;
+- testing strategy, CI and deployment readiness;
+- maintainability, operational support and technical evolution.
+
+I prefer architectures that are explicit about trade-offs, failure modes and operational responsibilities rather than adding complexity without a demonstrated need.
 
 ## Technology stack
 
@@ -61,9 +76,11 @@ LLM integrations · Prompt Engineering · Embeddings · Semantic Retrieval · MC
 
 ### [Student Management API](https://github.com/bielfelix/sistema_alunos_laravel)
 
-Current Laravel 13 and PostgreSQL 17 backend project focused on engineering quality and inspectable architecture.
+Current Laravel 13 and PostgreSQL 17 backend flagship focused on architecture, data integrity and operational discipline.
 
-**Highlights:** versioned REST API, ULIDs, database constraints, transactional enrollment rules, row locking for concurrency safety, application-service boundaries, integration tests, OpenAPI, Docker, GitHub Actions, Dependabot, ADRs and threat modeling.
+**Engineering decisions:** versioned REST API, ULIDs, database constraints, transactional enrollment rules, row locking for concurrency safety, application-service boundaries, integration tests, OpenAPI, Docker, GitHub Actions, Dependabot, ADRs, security policy and threat modeling.
+
+**What it demonstrates:** concurrency-aware domain design, integrity enforced close to the data, explicit architecture decisions and production-readiness thinking without unnecessary infrastructure.
 
 ### [REST API in PHP without a framework](https://github.com/bielfelix/api-rest-php-sem-framework)
 
@@ -98,6 +115,15 @@ Selected client contexts publicly presented by Felix Studio include Medical Laud
 
 [See selected client delivery contexts](docs/client-delivery-contexts.md)
 
+## Engineering operating principles
+
+- **Business context first:** architecture should solve a real delivery or operational problem.
+- **Integrity over convenience:** important invariants belong in transactions, constraints and explicit domain rules.
+- **Reliability is designed:** failure paths, retries, timeouts and observability are part of the system, not afterthoughts.
+- **Security is architectural:** credentials, privacy, authentication and trust boundaries are treated as design concerns.
+- **Evidence over claims:** tests, CI, ADRs, threat models and reproducible environments are stronger than technology lists.
+- **Complexity must earn its place:** distributed or asynchronous patterns are introduced only when the problem justifies them.
+
 ## Professional experience
 
 | Organization | Role | Period |
@@ -112,7 +138,7 @@ Selected client contexts publicly presented by Felix Studio include Medical Laud
 
 ## Education
 
-- Postgraduate Program in Software Engineering in Applied AI, Centro Universitário Anhanguera / UNIPDS, in progress
+- Postgraduate specialization in Software Engineering in Applied AI, Centro Universitário Anhanguera / UNIPDS
 - B.Sc. in Information Systems, Faculdade UNA Contagem, 2024
 - Technical Degree in Information Technology, FUNEC, 2018
 
