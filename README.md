@@ -6,7 +6,6 @@
 
 Designing and delivering software professionally since 2014, with end-to-end ownership from requirements and architecture through deployment, reliability, maintenance and technical evolution.
 
-[![Website](https://img.shields.io/badge/Website-felixstudio.com.br-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://felixstudio.com.br/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Felix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biel-felix/)
 [![Email](https://img.shields.io/badge/Email-bielfelix%40icloud.com-4B5563?style=for-the-badge&logo=icloud&logoColor=white)](mailto:bielfelix@icloud.com)
 [![Português](https://img.shields.io/badge/Português-README.pt--BR.md-1F6FEB?style=for-the-badge)](README.pt-BR.md)
