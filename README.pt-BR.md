@@ -6,11 +6,32 @@
 
 Projetando e entregando software profissionalmente desde 2014, com responsabilidade end-to-end dos requisitos e arquitetura à implantação, confiabilidade, manutenção e evolução técnica.
 
-[Site](https://felixstudio.com.br/) · [LinkedIn](https://www.linkedin.com/in/biel-felix/) · [E-mail](mailto:bielfelix@icloud.com) · [English](README.md)
+[![Site](https://img.shields.io/badge/Site-felixstudio.com.br-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://felixstudio.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Felix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biel-felix/)
+[![E-mail](https://img.shields.io/badge/E--mail-bielfelix%40icloud.com-4B5563?style=for-the-badge&logo=icloud&logoColor=white)](mailto:bielfelix@icloud.com)
+[![English](https://img.shields.io/badge/English-README.md-1F6FEB?style=for-the-badge)](README.md)
 
 </div>
 
 ---
+
+## Stack tecnológica
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,js,ts,nodejs,python,postgres,mysql,mongodb,redis,docker,aws,git,linux" alt="Stack tecnológica principal" />
+</p>
+
+**Backend e APIs**  
+PHP · Laravel · CodeIgniter · Symfony · Node.js · APIs REST · Integrações
+
+**Dados**  
+PostgreSQL · MySQL · MariaDB · SQL Server · Oracle · SQLite · MongoDB
+
+**Cloud e engenharia**  
+AWS · Docker · Git · Linux · Windows · macOS · CI/CD
+
+**IA Aplicada**  
+Integrações com LLMs · Prompt Engineering · Embeddings · Recuperação Semântica · MCP · Sistemas de Recomendação · AI Security
 
 ## Perfil profissional
 
@@ -42,24 +63,6 @@ Minha atuação não se limita à implementação. Trabalho ao longo do ciclo de
 - manutenibilidade, suporte operacional e evolução técnica.
 
 Prefiro arquiteturas com trade-offs, modos de falha e responsabilidades operacionais explícitos, evitando complexidade sem necessidade demonstrada.
-
-## Stack tecnológica
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,js,ts,nodejs,python,postgres,mysql,mongodb,redis,docker,aws,git,linux" alt="Stack tecnológica principal" />
-</p>
-
-**Backend e APIs**  
-PHP · Laravel · CodeIgniter · Symfony · Node.js · APIs REST · Integrações
-
-**Dados**  
-PostgreSQL · MySQL · MariaDB · SQL Server · Oracle · SQLite · MongoDB
-
-**Cloud e engenharia**  
-AWS · Docker · Git · Linux · Windows · macOS · CI/CD
-
-**IA Aplicada**  
-Integrações com LLMs · Prompt Engineering · Embeddings · Recuperação Semântica · MCP · Sistemas de Recomendação · AI Security
 
 ## Escopo de engenharia
 
