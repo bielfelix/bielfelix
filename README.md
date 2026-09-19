@@ -6,11 +6,32 @@
 
 Designing and delivering software professionally since 2014, with end-to-end ownership from requirements and architecture through deployment, reliability, maintenance and technical evolution.
 
-[Website](https://felixstudio.com.br/) · [LinkedIn](https://www.linkedin.com/in/biel-felix/) · [Email](mailto:bielfelix@icloud.com) · [Português](README.pt-BR.md)
+[![Website](https://img.shields.io/badge/Website-felixstudio.com.br-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://felixstudio.com.br/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Felix-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biel-felix/)
+[![Email](https://img.shields.io/badge/Email-bielfelix%40icloud.com-4B5563?style=for-the-badge&logo=icloud&logoColor=white)](mailto:bielfelix@icloud.com)
+[![Português](https://img.shields.io/badge/Português-README.pt--BR.md-1F6FEB?style=for-the-badge)](README.pt-BR.md)
 
 </div>
 
 ---
+
+## Technology stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,js,ts,nodejs,python,postgres,mysql,mongodb,redis,docker,aws,git,linux" alt="Core technology stack" />
+</p>
+
+**Backend & APIs**  
+PHP · Laravel · CodeIgniter · Symfony · Node.js · REST APIs · Integrations
+
+**Data**  
+PostgreSQL · MySQL · MariaDB · SQL Server · Oracle · SQLite · MongoDB
+
+**Cloud & Engineering**  
+AWS · Docker · Git · Linux · Windows · macOS · CI/CD
+
+**Applied AI**  
+LLM integrations · Prompt Engineering · Embeddings · Semantic Retrieval · MCP · Recommendation Systems · AI Security
 
 ## Professional profile
 
@@ -42,24 +63,6 @@ My work is not limited to implementation. I operate across the engineering lifec
 - maintainability, operational support and technical evolution.
 
 I prefer architectures that are explicit about trade-offs, failure modes and operational responsibilities rather than adding complexity without a demonstrated need.
-
-## Technology stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,symfony,js,ts,nodejs,python,postgres,mysql,mongodb,redis,docker,aws,git,linux" alt="Core technology stack" />
-</p>
-
-**Backend & APIs**  
-PHP · Laravel · CodeIgniter · Symfony · Node.js · REST APIs · Integrations
-
-**Data**  
-PostgreSQL · MySQL · MariaDB · SQL Server · Oracle · SQLite · MongoDB
-
-**Cloud & Engineering**  
-AWS · Docker · Git · Linux · Windows · macOS · CI/CD
-
-**Applied AI**  
-LLM integrations · Prompt Engineering · Embeddings · Semantic Retrieval · MCP · Recommendation Systems · AI Security
 
 ## Engineering scope
 
