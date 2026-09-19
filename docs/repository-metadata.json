@@ -1,0 +1,190 @@
+{
+  "repositories": [
+    {
+      "name": "sistema_alunos",
+      "description": "Historical PHP student management system preserved to show the evolution toward the modern Laravel rebuild.",
+      "topics": [
+        "php",
+        "mysql",
+        "javascript",
+        "jquery",
+        "legacy"
+      ]
+    },
+    {
+      "name": "sistema_alunos_laravel",
+      "description": "Laravel 13 and PostgreSQL API demonstrating transactional enrollment rules, concurrency control, testing, OpenAPI and CI.",
+      "topics": [
+        "laravel",
+        "php",
+        "postgresql",
+        "rest-api",
+        "docker",
+        "openapi",
+        "github-actions",
+        "software-architecture"
+      ]
+    },
+    {
+      "name": "sdk_mercadopago_php",
+      "description": "Historical PHP integration helper for Mercado Pago in environments where direct Composer usage was constrained.",
+      "topics": [
+        "php",
+        "mercadopago",
+        "payments",
+        "integration",
+        "legacy"
+      ]
+    },
+    {
+      "name": "compras_da_manha_php_js_puro",
+      "description": "Historical shopping-list application built with plain PHP, JavaScript, AJAX and MySQL.",
+      "topics": [
+        "php",
+        "javascript",
+        "ajax",
+        "mysql",
+        "legacy"
+      ]
+    },
+    {
+      "name": "compras_da_manha_php_codeigniter",
+      "description": "CodeIgniter version of an earlier PHP shopping-list application, preserved as an evolution step.",
+      "topics": [
+        "php",
+        "codeigniter",
+        "mysql",
+        "javascript",
+        "legacy"
+      ]
+    },
+    {
+      "name": "ExcelUtils",
+      "description": "Legacy PHP utilities for importing and exporting XLS, XLSX and CSV files with PhpSpreadsheet.",
+      "topics": [
+        "php",
+        "phpspreadsheet",
+        "excel",
+        "csv",
+        "legacy"
+      ]
+    },
+    {
+      "name": "api-rest-php-sem-framework",
+      "description": "Framework-free PHP REST API exploring routing, PDO, repositories, services, validation and bearer authentication.",
+      "topics": [
+        "php",
+        "rest-api",
+        "pdo",
+        "mysql",
+        "backend",
+        "api"
+      ]
+    },
+    {
+      "name": "symfonyfirstapp",
+      "description": "Historical Symfony 5.4 application covering Doctrine, Security, Forms, CRUD and JSON API development.",
+      "topics": [
+        "php",
+        "symfony",
+        "doctrine",
+        "crud",
+        "rest-api"
+      ]
+    },
+    {
+      "name": "gerador_numeros_mega_sena",
+      "description": "Historical PHP utility for generating number combinations, checking results and exporting spreadsheet data.",
+      "topics": [
+        "php",
+        "mysql",
+        "phpspreadsheet",
+        "utility",
+        "legacy"
+      ]
+    },
+    {
+      "name": "smart-model-router-gateway",
+      "description": "Source-attributed LLM routing implementation extended with provider abstraction, model fallback, request limits and deterministic tests.",
+      "topics": [
+        "llm",
+        "openrouter",
+        "typescript",
+        "fastify",
+        "routing",
+        "testing",
+        "reference-implementation"
+      ]
+    },
+    {
+      "name": "project-node-grafana-mcp",
+      "description": "Source-attributed observability integration using OpenTelemetry, Prometheus, Loki, Tempo, Grafana, PostgreSQL and MCP.",
+      "topics": [
+        "mcp",
+        "opentelemetry",
+        "grafana",
+        "prometheus",
+        "loki",
+        "tempo",
+        "reference-implementation"
+      ]
+    },
+    {
+      "name": "project-node-embeddings-neo4j",
+      "description": "Source-attributed embeddings and Neo4j vector-search implementation covering ingestion and semantic similarity workflows.",
+      "topics": [
+        "embeddings",
+        "neo4j",
+        "vector-search",
+        "semantic-search",
+        "nodejs",
+        "reference-implementation"
+      ]
+    },
+    {
+      "name": "project-node-langchain",
+      "description": "Source-attributed LangChain and LangGraph integration covering execution flow, tracing and automated tests.",
+      "topics": [
+        "langchain",
+        "langgraph",
+        "llm",
+        "nodejs",
+        "reference-implementation"
+      ]
+    },
+    {
+      "name": "project-node-medical-appointment",
+      "description": "Source-attributed LangGraph prompt-chaining implementation with structured outputs and conditional graph workflows.",
+      "topics": [
+        "langgraph",
+        "prompt-chaining",
+        "llm",
+        "nodejs",
+        "reference-implementation"
+      ]
+    },
+    {
+      "name": "NeuroCart",
+      "description": "Source-attributed recommendation-system implementation combining Node.js, MongoDB and TensorFlow.js.",
+      "topics": [
+        "nodejs",
+        "mongodb",
+        "tensorflowjs",
+        "recommendation-system",
+        "machine-learning",
+        "reference-implementation"
+      ]
+    },
+    {
+      "name": "bielfelix",
+      "description": "Professional GitHub profile for Gabriel Felix: Senior Full Stack Developer, Applied AI Engineer and Software Architecture.",
+      "topics": [
+        "software-engineering",
+        "backend",
+        "full-stack",
+        "applied-ai",
+        "software-architecture"
+      ]
+    }
+  ]
+}
