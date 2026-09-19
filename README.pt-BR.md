@@ -4,8 +4,6 @@
 
 ### Desenvolvedor Full Stack Sênior · Engenheiro de IA Aplicada · Arquitetura de Software
 
-Contagem, Minas Gerais, Brasil
-
 Desenvolvendo software profissionalmente desde 2014, dos requisitos e arquitetura à implantação, manutenção e evolução técnica.
 
 [Site](https://felixstudio.com.br/) · [LinkedIn](https://www.linkedin.com/in/biel-felix/) · [E-mail](mailto:bielfelix@icloud.com) · [English](README.md)
@@ -16,7 +14,7 @@ Desenvolvendo software profissionalmente desde 2014, dos requisitos e arquitetur
 
 ## Perfil profissional
 
-Desenvolvedor Full Stack Sênior e Engenheiro de IA Aplicada com experiência em backend, APIs, integrações, bancos de dados, cloud, arquitetura de software e sistemas AI-enabled.
+Desenvolvedor Full Stack Sênior e Engenheiro de IA Aplicada com foco em backend, arquitetura de software, APIs, integrações, cloud e sistemas AI-enabled.
 
 Minha atuação cobre todo o ciclo de entrega de software: levantamento de requisitos, modelagem de processos e dados, arquitetura, desenvolvimento, testes, implantação, manutenção, suporte e evolução técnica contínua.
 
