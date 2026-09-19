@@ -140,15 +140,10 @@ Entre os contextos de clientes apresentados publicamente pela Felix Studio estã
 
 ## Formação
 
-- Especialização em Engenharia de Software em IA Aplicada, Centro Universitário Anhanguera / UNIPDS
+- Especialização em Engenharia de Software em IA Aplicada, Centro Universitário Anhanguera / UNIPDS, em andamento
 - Bacharelado em Sistemas de Informação, Faculdade UNA Contagem, 2024
 - Técnico de Nível Médio em Informática, FUNEC, 2018
 
-## Evidências de engenharia
-
-- [Professional Engineering Evidence](docs/professional-engineering-evidence.md)
-- [Selected Client Delivery Contexts](docs/client-delivery-contexts.md)
-- [Repository Metadata Baseline](docs/repository-metadata.md)
 
 ## Contato
 
