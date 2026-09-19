@@ -7,7 +7,7 @@ Recommended account metadata:
 | Field | Value |
 |---|---|
 | Name | Gabriel Felix |
-| Bio | Senior Full Stack Developer \| Applied AI Engineer \| Software Architecture |
+| Bio | Senior Full Stack Developer \| Applied AI Engineer \| Software Architecture \| Backend, Cloud, APIs & AI-enabled Systems |
 | Company | Felix Studio |
 | Location | Contagem, Minas Gerais, Brazil |
 | Website | https://felixstudio.com.br/ |
