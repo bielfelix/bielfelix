@@ -214,6 +214,12 @@ Examples:
 - B.Sc. in Information Systems, Faculdade UNA Contagem, 2024
 - Technical Degree in Information Technology, FUNEC, 2018
 
+## Portfolio evidence
+
+- [Professional Engineering Evidence](docs/professional-engineering-evidence.md)
+- [Selected Client Delivery Contexts](docs/client-delivery-contexts.md)
+- [Repository Metadata Baseline](docs/repository-metadata.md)
+
 ## Contact
 
 For professional opportunities, technical collaboration or project discussions:
