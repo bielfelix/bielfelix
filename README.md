@@ -4,6 +4,8 @@
 
 ### Senior Full Stack Developer · Applied AI Engineer · Software Architecture
 
+Contagem, Minas Gerais, Brazil
+
 Software engineer with end-to-end experience building web applications, APIs, integrations, data-driven systems and AI-enabled software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Felix-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biel-felix/)
@@ -21,6 +23,15 @@ My work spans the full delivery cycle: requirements, process and data modeling, 
 Since 2025, I have also worked professionally with Applied AI, including LLM-based capabilities, prompt engineering, embeddings, semantic retrieval, MCP, recommendation systems, AI Security and Security by Design.
 
 I use this GitHub as an engineering portfolio. Current implementations, historical projects and educational repositories are kept distinct so the code, documentation and provenance match what each repository actually represents.
+
+## Professional highlights
+
+- Building and delivering software professionally since 2014 through Felix Studio.
+- End-to-end ownership across requirements, process and data modeling, architecture, development, testing, deployment, maintenance, support and training.
+- Professional Applied AI Engineering since 2025, working with LLMs, prompt engineering, embeddings, semantic retrieval, MCP, recommendation systems, AI Security and Security by Design.
+- Experience across product, corporate and contractor environments, including Safehouse App, 123Milhas, Why Digital, AcessoWeb Design and SOEBRAS.
+- Backend and integration work spanning REST APIs, SQL/NoSQL databases, AWS services, authentication, payments and data-integrity controls.
+- B.Sc. in Information Systems, with postgraduate studies in Software Engineering in Applied AI.
 
 ## Professional focus
 
