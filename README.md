@@ -2,9 +2,9 @@
 
 # Gabriel Felix
 
-### Software Engineer · Backend · Software Architecture · Applied AI
+### Senior Full Stack Developer · Applied AI Engineer · Software Architecture
 
-I build backend systems, APIs and AI-enabled software with an emphasis on architecture, reliability, data integrity and maintainability.
+Software engineer with end-to-end experience building web applications, APIs, integrations, data-driven systems and AI-enabled software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Felix-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biel-felix/)
 [![Email](https://img.shields.io/badge/Email-bielfelix%40icloud.com-333333?logo=icloud&logoColor=white)](mailto:bielfelix@icloud.com)
@@ -14,20 +14,27 @@ I build backend systems, APIs and AI-enabled software with an emphasis on archit
 
 ## About
 
-My background is rooted in software engineering and backend development, with current work extending into Applied AI.
+I am a Senior Full Stack Developer and Applied AI Engineer with experience across software architecture, backend development, web applications, APIs, integrations, databases, cloud and data-oriented systems.
 
-I use this GitHub as an engineering portfolio rather than an activity feed. Current implementations, historical projects and educational studies are kept distinct so that the code, documentation and provenance match what each repository actually represents.
+My work spans the full delivery cycle: requirements, process and data modeling, architecture, development, testing, deployment, maintenance, support and technical evolution.
 
-The areas I work with most often include:
+Since 2025, I have also worked professionally with Applied AI, including LLM-based capabilities, prompt engineering, embeddings, semantic retrieval, MCP, recommendation systems, AI Security and Security by Design.
 
-- backend engineering and API design
-- PHP and Laravel
+I use this GitHub as an engineering portfolio. Current implementations, historical projects and educational repositories are kept distinct so the code, documentation and provenance match what each repository actually represents.
+
+## Professional focus
+
+- Senior Full Stack Engineering
+- Applied AI Engineering
+- Software Architecture
+- Backend and API Engineering
+- PHP, Laravel, CodeIgniter and Symfony
 - JavaScript, TypeScript and Node.js
-- PostgreSQL and relational data modeling
-- Docker and reproducible development environments
-- software architecture and technical decision records
-- Applied AI, LLM integrations and tool-based systems
-- testing, CI and operational reliability
+- PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, SQLite and MongoDB
+- AWS, Docker, Git, Linux, Windows and macOS
+- LLM integrations, MCP, embeddings and semantic retrieval
+- Security by Design, data integrity and privacy
+- Testing, CI and production support
 
 ## Selected engineering work
 
@@ -59,36 +66,57 @@ It covers routing, PDO, repositories, services, validation, bearer authenticatio
 
 I keep it public because it shows the lower-level backend concepts behind the framework-based systems I use today.
 
-## Current technical direction
+## Applied AI Engineering
 
-My current engineering focus is moving toward production-oriented AI systems rather than isolated model calls.
+My Applied AI work includes architecture and development of AI-enabled features integrated with applications, APIs and databases.
 
-Areas I am actively exploring and building around include:
+Areas I work with include:
 
-- provider abstraction and model routing
-- tool calling and MCP
-- RAG and retrieval pipelines
-- embeddings and semantic search
-- evaluation and regression testing for AI systems
-- observability, latency and cost visibility
+- Large Language Models and prompt engineering
+- provider and model integration
+- embeddings and semantic retrieval
+- Model Context Protocol and tool integration
+- recommendation systems
+- AI-enabled backend systems
+- knowledge-oriented architectures
+- observability for AI integrations
 - failure handling and fallback strategies
-- backend infrastructure that supports AI-enabled products
+- AI Security and Security by Design
 
-Course-based and third-party study repositories are documented with explicit attribution and kept separate from original portfolio work.
+Some public repositories originated from structured coursework. Those repositories preserve their original attribution and are kept separate from my original engineering work.
 
-## Engineering approach
+## Professional experience
 
-**Prefer evidence over claims.**  
-Working code, tests, architecture and reproducible execution matter more than long technology lists.
+**Felix Studio**  
+Senior Full Stack Developer · 2014 - Present  
+Applied AI Engineer · 2025 - Present
 
-**Keep integrity close to the data.**  
-Application validation is useful, but transactions, constraints and concurrency controls still matter.
+Architecture and end-to-end development of web applications, platforms and custom software, including backend systems, REST APIs, integrations, data modeling, AWS services, authentication, payments, security controls and delivery ownership.
 
-**Document trade-offs.**  
-A prototype should not pretend to be a production platform, and historical code should not be rewritten to look newer than it is.
+**Safehouse App**  
+Full Stack Developer, Contractor · 2023 - 2024
 
-**Keep provenance clear.**  
-Original work, legacy systems, course material and third-party code should be identifiable as different things.
+Full stack application development, integrations, maintenance and troubleshooting.
+
+**123Milhas**  
+Full Stack Developer · 2023
+
+Development and maintenance of full stack applications and features in a corporate environment.
+
+**Why Digital**  
+Full Stack Developer, CodeIgniter · 2022 - 2023
+
+Development and maintenance of PHP/CodeIgniter applications and integrations.
+
+**AcessoWeb Design**  
+Mid-Level Full Stack Developer · 2022
+
+Web application development and full stack feature implementation.
+
+**SOEBRAS**  
+Full Stack Developer · 2019 - 2021
+
+Development, maintenance and evolution of web applications and internal systems.
 
 ## Core stack
 
@@ -103,16 +131,39 @@ Original work, legacy systems, course material and third-party code should be id
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
 
+## Engineering principles
+
+**Build from requirements to production.**  
+I work across requirements, architecture, implementation, testing, deployment and maintenance.
+
+**Prefer evidence over claims.**  
+Working code, tests, architecture and reproducible execution matter more than long technology lists.
+
+**Keep integrity close to the data.**  
+Application validation is important, but transactions, constraints and concurrency controls still matter.
+
+**Document trade-offs.**  
+A prototype should not pretend to be a production platform, and historical code should not be rewritten to look newer than it is.
+
+**Keep provenance clear.**  
+Original work, legacy systems, course material and third-party code should be identifiable as different things.
+
 ## Engineering history
 
 Some older repositories remain public because they show different stages of my work rather than my current architecture standards.
 
-A few examples:
+Examples:
 
 - [Student Management System](https://github.com/bielfelix/sistema_alunos)
 - [Symfony First App](https://github.com/bielfelix/symfonyfirstapp)
 - [ExcelUtils](https://github.com/bielfelix/ExcelUtils)
 - [Mercado Pago PHP integration helper](https://github.com/bielfelix/sdk_mercadopago_php)
+
+## Education
+
+- Postgraduate Program in Software Engineering in Applied AI, Centro Universitário Anhanguera / UNIPDS, in progress
+- B.Sc. in Information Systems, Faculdade UNA Contagem, 2024
+- Technical Degree in Information Technology, FUNEC, 2018
 
 ## Contact
 
