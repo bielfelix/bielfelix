@@ -1,19 +1,19 @@
 {
   "repositories": [
     {
-      "name": "sistema_alunos",
-      "description": "Historical PHP student management system preserved to show the evolution toward the modern Laravel rebuild.",
+      "name": "bielfelix",
+      "description": "Senior Full Stack Developer and Applied AI Engineer focused on backend, software architecture, cloud, APIs and AI-enabled systems.",
       "topics": [
-        "php",
-        "mysql",
-        "javascript",
-        "jquery",
-        "legacy"
+        "software-engineering",
+        "backend",
+        "full-stack",
+        "applied-ai",
+        "software-architecture"
       ]
     },
     {
       "name": "sistema_alunos_laravel",
-      "description": "Laravel 13 and PostgreSQL API demonstrating transactional enrollment rules, concurrency control, testing, OpenAPI and CI.",
+      "description": "Laravel 13 and PostgreSQL API focused on transactions, concurrency control, data integrity, OpenAPI, testing and CI.",
       "topics": [
         "laravel",
         "php",
@@ -23,6 +23,51 @@
         "openapi",
         "github-actions",
         "software-architecture"
+      ]
+    },
+    {
+      "name": "api-rest-php-sem-framework",
+      "description": "Framework-free PHP REST API demonstrating routing, PDO, repositories, services, validation and bearer authentication.",
+      "topics": [
+        "php",
+        "rest-api",
+        "pdo",
+        "mysql",
+        "backend",
+        "api"
+      ]
+    },
+    {
+      "name": "sistema_alunos",
+      "description": "Historical PHP student-management system preserved to show the evolution toward the modern Laravel rebuild.",
+      "topics": [
+        "php",
+        "mysql",
+        "javascript",
+        "jquery",
+        "legacy"
+      ]
+    },
+    {
+      "name": "symfonyfirstapp",
+      "description": "Historical Symfony 5.4 application covering Doctrine, Security, Forms, CRUD and JSON API development.",
+      "topics": [
+        "php",
+        "symfony",
+        "doctrine",
+        "crud",
+        "rest-api"
+      ]
+    },
+    {
+      "name": "ExcelUtils",
+      "description": "Legacy PHP utilities for importing and exporting XLS, XLSX and CSV files with PhpSpreadsheet.",
+      "topics": [
+        "php",
+        "phpspreadsheet",
+        "excel",
+        "csv",
+        "legacy"
       ]
     },
     {
@@ -49,7 +94,7 @@
     },
     {
       "name": "compras_da_manha_php_codeigniter",
-      "description": "CodeIgniter version of an earlier PHP shopping-list application, preserved as an evolution step.",
+      "description": "Historical CodeIgniter implementation of a PHP shopping-list application, preserved as an architecture evolution step.",
       "topics": [
         "php",
         "codeigniter",
@@ -59,42 +104,8 @@
       ]
     },
     {
-      "name": "ExcelUtils",
-      "description": "Legacy PHP utilities for importing and exporting XLS, XLSX and CSV files with PhpSpreadsheet.",
-      "topics": [
-        "php",
-        "phpspreadsheet",
-        "excel",
-        "csv",
-        "legacy"
-      ]
-    },
-    {
-      "name": "api-rest-php-sem-framework",
-      "description": "Framework-free PHP REST API exploring routing, PDO, repositories, services, validation and bearer authentication.",
-      "topics": [
-        "php",
-        "rest-api",
-        "pdo",
-        "mysql",
-        "backend",
-        "api"
-      ]
-    },
-    {
-      "name": "symfonyfirstapp",
-      "description": "Historical Symfony 5.4 application covering Doctrine, Security, Forms, CRUD and JSON API development.",
-      "topics": [
-        "php",
-        "symfony",
-        "doctrine",
-        "crud",
-        "rest-api"
-      ]
-    },
-    {
       "name": "gerador_numeros_mega_sena",
-      "description": "Historical PHP utility for generating number combinations, checking results and exporting spreadsheet data.",
+      "description": "Historical PHP utility for generating number combinations, checking published results and exporting spreadsheet data.",
       "topics": [
         "php",
         "mysql",
@@ -104,8 +115,20 @@
       ]
     },
     {
+      "name": "NeuroCart",
+      "description": "Source-attributed recommendation-system implementation combining Node.js, MongoDB and TensorFlow.js.",
+      "topics": [
+        "nodejs",
+        "mongodb",
+        "tensorflowjs",
+        "recommendation-system",
+        "machine-learning",
+        "reference-implementation"
+      ]
+    },
+    {
       "name": "smart-model-router-gateway",
-      "description": "Source-attributed LLM routing implementation extended with provider abstraction, model fallback, request limits and deterministic tests.",
+      "description": "Source-attributed LLM routing implementation extended with provider abstraction, fallback, request limits and deterministic tests.",
       "topics": [
         "llm",
         "openrouter",
@@ -164,26 +187,47 @@
       ]
     },
     {
-      "name": "NeuroCart",
-      "description": "Source-attributed recommendation-system implementation combining Node.js, MongoDB and TensorFlow.js.",
+      "name": "E-commerce-Recommendation-System-MongoDB-API-Architecture",
+      "description": "Historical Node.js, Express and MongoDB recommendation-system architecture precursor to NeuroCart.",
       "topics": [
         "nodejs",
         "mongodb",
-        "tensorflowjs",
         "recommendation-system",
-        "machine-learning",
-        "reference-implementation"
+        "api",
+        "ecommerce",
+        "historical"
       ]
     },
     {
-      "name": "bielfelix",
-      "description": "Professional GitHub profile for Gabriel Felix: Senior Full Stack Developer, Applied AI Engineer and Software Architecture.",
+      "name": "ecommerce-recomendations-with-ml",
+      "description": "Historical frontend-oriented recommendation-system implementation preserved as part of the evolution toward NeuroCart.",
       "topics": [
-        "software-engineering",
-        "backend",
-        "full-stack",
-        "applied-ai",
-        "software-architecture"
+        "javascript",
+        "recommendation-system",
+        "ecommerce",
+        "historical"
+      ]
+    },
+    {
+      "name": "icons-svg",
+      "description": "Historical reference copy of Human Made's hm-icons project with original attribution and GPL v2 licensing.",
+      "topics": [
+        "svg",
+        "icons",
+        "php",
+        "reference",
+        "third-party"
+      ]
+    },
+    {
+      "name": "How-to-win-any-game-beta",
+      "description": "Historical reference copy of Duck Hunt JS with explicit attribution to the original implementation.",
+      "topics": [
+        "javascript",
+        "pixijs",
+        "game",
+        "reference",
+        "third-party"
       ]
     }
   ]
